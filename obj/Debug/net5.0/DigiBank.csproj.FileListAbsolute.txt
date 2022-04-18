@@ -1,0 +1,16 @@
+D:\netcore\c#\DigiBank\DigiBank\bin\Debug\net5.0\DigiBank.exe
+D:\netcore\c#\DigiBank\DigiBank\bin\Debug\net5.0\DigiBank.deps.json
+D:\netcore\c#\DigiBank\DigiBank\bin\Debug\net5.0\DigiBank.runtimeconfig.json
+D:\netcore\c#\DigiBank\DigiBank\bin\Debug\net5.0\DigiBank.runtimeconfig.dev.json
+D:\netcore\c#\DigiBank\DigiBank\bin\Debug\net5.0\DigiBank.dll
+D:\netcore\c#\DigiBank\DigiBank\bin\Debug\net5.0\DigiBank.pdb
+D:\netcore\c#\DigiBank\DigiBank\obj\Debug\net5.0\DigiBank.csproj.AssemblyReference.cache
+D:\netcore\c#\DigiBank\DigiBank\obj\Debug\net5.0\DigiBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\netcore\c#\DigiBank\DigiBank\obj\Debug\net5.0\DigiBank.AssemblyInfoInputs.cache
+D:\netcore\c#\DigiBank\DigiBank\obj\Debug\net5.0\DigiBank.AssemblyInfo.cs
+D:\netcore\c#\DigiBank\DigiBank\obj\Debug\net5.0\DigiBank.csproj.CoreCompileInputs.cache
+D:\netcore\c#\DigiBank\DigiBank\obj\Debug\net5.0\DigiBank.dll
+D:\netcore\c#\DigiBank\DigiBank\obj\Debug\net5.0\refint\DigiBank.dll
+D:\netcore\c#\DigiBank\DigiBank\obj\Debug\net5.0\DigiBank.pdb
+D:\netcore\c#\DigiBank\DigiBank\obj\Debug\net5.0\DigiBank.genruntimeconfig.cache
+D:\netcore\c#\DigiBank\DigiBank\obj\Debug\net5.0\ref\DigiBank.dll
